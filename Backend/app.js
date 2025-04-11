@@ -7,7 +7,7 @@ const cookieParser = require("cookie-parser");
 app.use(cookieParser());
 const constant = require("./src/config/constant.js");
 const port = constant.PORT;
-require("./src/config/db");
+require("./src/config/db.js");
 const cors = require("cors");
 const cron = require("node-cron");
 const routes=require("./src/utils/index.js")

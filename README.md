@@ -293,7 +293,7 @@ https://society-management-system-y5jd.onrender.com/
 PORT=3000
 DATABASE_URL = mongodb://127.0.0.1:27017/mySociety
 NODE_ENV = development
-JWT_SECRET = society_management
+JWT_SECRET = e-society_management_system
 cloud_name = djf70jh03
 api_key = 869116472876523
 api_secret = RuHshYyRomiPnKOJyBWzBUrYaMc
