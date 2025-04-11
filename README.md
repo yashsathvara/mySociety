@@ -280,7 +280,7 @@ This document provides the sample login data for different roles in the **Societ
 
 VITE_BACKEND_URL =
  ```
- http://localhost:3000/api/
+http://localhost:3000/api/
  ```
 
 VITE_SOCKET_URL = 
@@ -289,16 +289,17 @@ https://society-management-system-y5jd.onrender.com/
 ```
 
 ### Backend env credentials
-
+```
 PORT=3000
-DATABASE_URL = mongodb+srv://harshkotak:NvmowI3ivLJpwdQb@cluster0.gaduz.mongodb.net/society_management
+DATABASE_URL = mongodb://127.0.0.1:27017/mySociety
 NODE_ENV = development
 JWT_SECRET = society_management
-cloud_name = dcua1p9ku
-api_key = 613152216129359
-api_secret = sIzZiw2qxCwd7cn77N5CeeVNfwY
+cloud_name = djf70jh03
+api_key = 869116472876523
+api_secret = RuHshYyRomiPnKOJyBWzBUrYaMc
 key_id=rzp_test_JudTAPk3CxA00x
 key_secret = 5hh4uVhB8X4LV2sAhbkkKUey
+```
 
 ### THANK YOU !
 "# mySociety" 
