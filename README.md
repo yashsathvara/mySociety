@@ -277,15 +277,9 @@ In addition to the core technologies, several other tools and libraries are used
 This document provides the sample login data for different roles in the **Society Management System**. You can use these credentials to test the functionalities of the system.
 
 ### Frontend env credentials
-
-VITE_BACKEND_URL =
- ```
-http://localhost:3000/api/
- ```
-
-VITE_SOCKET_URL = 
 ```
-https://society-management-system-y5jd.onrender.com/
+VITE_BACKEND_URL = http://localhost:3000/api/
+VITE_SOCKET_URL = https://society-management-system-y5jd.onrender.com/
 ```
 
 ### Backend env credentials
